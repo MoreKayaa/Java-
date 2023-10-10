@@ -1,3 +1,5 @@
+//Favian Mokaya Imbera 
+//SCT211-0022/2021
 public class MultiDimensionalArray{
     public static void main(String[] args){
         int[][] mdArray= new int[3][4];
