@@ -1,3 +1,6 @@
+//Favian Mokaya Imbera
+//SCT211-0022/2021
+
 import java.util.*;
 //This code will find and print the maximum value in the list
 public class max {
